@@ -2,6 +2,6 @@
 
 | TIpo        | Cartella                   | Download File           |
 |--------------|-----------------------|--------------------------|
-| Sciolto       | None            | [Scarica](G.txt)   |
-| sotto cartella         | Pinco         | [Scarica](pinco/GG.txt)     |
-| sotto cartella pinco       | Pinco --> pallino        | [Scarica](pinco/pallino/GGG.txt)   |
+| Sciolto       | None            | <a href="https://github.com/Graziani-Nicolo/PROVA/blob/main/G.txt" download>Scarica</a>   |
+| sotto cartella         | Pinco         | <a href="https://github.com/Graziani-Nicolo/PROVA/blob/main/pinco/GG.txt" download>Scarica</a>     |
+| sotto cartella pinco       | Pinco --> pallino        | <a href="https://github.com/Graziani-Nicolo/PROVA/blob/main/pinco/pallino/GGG.txt" download>Scarica</a>   |
